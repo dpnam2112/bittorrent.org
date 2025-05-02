@@ -11,7 +11,7 @@
 Introduction
 ============
 
-To discover other peers in a swarm a client announces it's existance
+To discover other peers in a swarm a client announces it's existence
 to a tracker.  The HTTP protocol is used and a typical request
 contains the following parameters: info_hash, key, peer_id, port,
 downloaded, left, uploaded and compact.  A response contains a list of
